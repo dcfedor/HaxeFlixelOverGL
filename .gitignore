@@ -1,28 +1,17 @@
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
+# IDE files
+.idea
+*.iml
+*.hxproj
 
-# Precompiled Headers
-*.gch
-*.pch
+# OS files
+.DS_Store
 
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
+# Compiled code
+export
+*.n
 
-# Fortran module files
-*.mod
+# User-specific files
+.user
 
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
-*.exe
-*.out
-*.app
+# Build products
+assets/temp.png
